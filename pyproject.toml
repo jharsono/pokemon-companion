@@ -1,0 +1,15 @@
+[project]
+name = "busybar-pokemon"
+version = "0.1.0"
+description = "Pokémon companions for the BUSY Bar 72x16 LED panel"
+requires-python = ">=3.11"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pillow>=11",
+    "pytest>=8",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
