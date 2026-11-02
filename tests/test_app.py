@@ -652,21 +652,6 @@ def test_menu_order_screen_opens_from_the_chooser_too(index, tmp_path):
     assert m.screen == "order" and m.sprite.slug == "pikachu_female"
 
 
-def test_menu_keeps_the_colour_while_browsing(index, tmp_path):
-    m = app.Menu(index, APP_DIR / "sprites", "pikachu", tmp_path / "state.json", color="shiny")
-    assert m.sprite.color == "shiny"
-    m.update(stamped([("button", "ok"), ("wheel", 1)], 0.0), 0.0)
-    assert m.sprite.color == "shiny"
-
-
-def test_shiny_flag_picks_the_shiny_frames(tmp_path):
-    out = subprocess.run(STRICT_PYTHON + [str(APP_DIR / "app.py"), "--host", "127.0.0.1:1",
-                                         "--state", str(tmp_path / "s.json"), "--pokemon", "ditto",
-                                         "--shiny", "--once"],
-                         capture_output=True, text=True, timeout=30)
-    assert "Ditto (shiny) ->" in out.stdout
-
-
 def test_saved_order_is_the_default_and_the_flag_wins(tmp_path):
     state = tmp_path / "state.json"
     app.save_state(state, {"pokemon": "mew", "order": "number"})

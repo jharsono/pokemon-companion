@@ -9,7 +9,6 @@ the LEDs.
     python3 app.py                        # BUSY Bar over USB (10.0.4.20)
     python3 app.py --host 127.0.0.1:8080  # the emulator, or a Wi-Fi bar
     python3 app.py --pokemon charizard
-    python3 app.py --pokemon charizard --shiny
     python3 app.py --order number         # the chooser counts #001, #002, ...
     python3 app.py --list                 # every Pokémon this build ships
     python3 app.py --once                 # draw one frame and exit
@@ -861,7 +860,6 @@ def parse_args(argv=None):
     p.add_argument("--host", default="10.0.4.20", help="bar host[:port] (default: USB)")
     p.add_argument("--pokemon", help="which Pokémon (see --list). Default: the one last "
                    "chosen on the bar, else bulbasaur")
-    p.add_argument("--shiny", action="store_true", help="the shiny colouring")
     p.add_argument("--order", choices=ORDERS, help="how the chooser lists them: by name "
                    "(A to Z) or by Pokédex number. Default: as last chosen, else name")
     p.add_argument("--priority", type=int, default=PRIORITY, help="draw priority 1-100")
@@ -896,19 +894,17 @@ def main(argv=None):
     order = args.order or saved.get("order")
     if order not in ORDERS:
         order = "name"
-    color = "shiny" if args.shiny else "default"
     try:
-        sprite = sprite_for(index, args.sprites, slug, color)
+        sprite = sprite_for(index, args.sprites, slug)
     except KeyError:
         print("unknown Pokémon %r. See --list." % slug)
         return 2
     bar = Bar(args.host, args.token)
-    print("%s: %s%s -> %s  (Ctrl-C to stop)" % (APP, title(index, slug, order),
-                                                 " (shiny)" if args.shiny else "", bar.base))
+    print("%s: %s -> %s  (Ctrl-C to stop)" % (APP, title(index, slug, order), bar.base))
     signal.signal(signal.SIGTERM, _sigterm)
     menu = inputs = None
     if not args.once:
-        menu = Menu(index, args.sprites, slug, args.state, color, order)
+        menu = Menu(index, args.sprites, slug, args.state, order=order)
         sprite = menu.sprite             # one object, so the loop can recognise it
         inputs = InputListener(bar.host, args.token)
         inputs.start()

@@ -23,7 +23,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageSequence
 
 PANEL_H = 16
-COLORS = ("default", "shiny")
+COLORS = ("default",)
 STATES = ("idle", "walk")
 FACINGS = ("right", "left")
 RESAMPLE = {"nearest": Image.NEAREST, "box": Image.BOX}

@@ -58,64 +58,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     19,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -178,64 +120,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     28
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -304,64 +188,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -424,64 +250,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -550,64 +318,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     28,
-     28
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -670,64 +380,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     30
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -796,64 +448,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -916,64 +510,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 12
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     15,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 12
@@ -1042,64 +578,6 @@
      }
     },
     "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 18
    }
   },
   "gen": 1,
@@ -1162,64 +640,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     19,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 18
@@ -1288,64 +708,6 @@
      }
     },
     "w": 23
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 23
    }
   },
   "gen": 1,
@@ -1408,64 +770,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     19,
-     18
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -1534,64 +838,6 @@
      }
     },
     "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 18
    }
   },
   "gen": 1,
@@ -1654,64 +900,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     25
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 19
@@ -1780,64 +968,6 @@
      }
     },
     "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     19,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 18
    }
   },
   "gen": 1,
@@ -1900,64 +1030,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -2026,64 +1098,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -2146,64 +1160,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     17,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -2272,64 +1228,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     28
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -2392,64 +1290,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     20,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -2518,64 +1358,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     25
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -2638,64 +1420,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 12,
-    "source_size": [
-     15,
-     12
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -2764,64 +1488,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 13,
-    "source_size": [
-     16,
-     13
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -2884,64 +1550,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     30
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -3010,64 +1618,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -3130,64 +1680,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     30,
-     27
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 18
@@ -3256,64 +1748,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     26
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -3376,64 +1810,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     20,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -3502,64 +1878,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     18,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -3622,64 +1940,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 19
@@ -3748,64 +2008,6 @@
      }
     },
     "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     19,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 18
    }
   },
   "gen": 1,
@@ -3868,64 +2070,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 19
@@ -3994,64 +2138,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     26,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -4114,64 +2200,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -4240,64 +2268,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     26,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -4360,64 +2330,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 14
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     29
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 14
@@ -4486,64 +2398,6 @@
      }
     },
     "w": 12
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     16,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 12
    }
   },
   "gen": 1,
@@ -4606,64 +2460,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     30,
-     31
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -4732,64 +2528,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -4852,64 +2590,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -4978,64 +2658,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -5098,64 +2720,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 21
-   },
-   "shiny": {
-    "h": 13,
-    "source_size": [
-     21,
-     13
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 21
@@ -5224,64 +2788,6 @@
      }
     },
     "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 18
    }
   },
   "gen": 1,
@@ -5344,64 +2850,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     25
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 19
@@ -5470,64 +2918,6 @@
      }
     },
     "w": 21
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     26,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 21
    }
   },
   "gen": 1,
@@ -5590,64 +2980,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 13
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     18,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 13
@@ -5716,64 +3048,6 @@
      }
     },
     "w": 21
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 21
    }
   },
   "gen": 1,
@@ -5836,64 +3110,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 21
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 21
@@ -5962,64 +3178,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     20,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -6082,64 +3240,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     19,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -6208,64 +3308,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     30,
-     31
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -6328,64 +3370,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 19
@@ -6454,64 +3438,6 @@
      }
     },
     "w": 13
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     18,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 13
    }
   },
   "gen": 1,
@@ -6574,64 +3500,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -6700,64 +3568,6 @@
      }
     },
     "w": 14
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     15,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 14
    }
   },
   "gen": 1,
@@ -6820,64 +3630,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -6946,64 +3698,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -7066,64 +3760,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 15,
-    "source_size": [
-     16,
-     15
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -7192,64 +3828,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -7312,64 +3890,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -7438,64 +3958,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 15,
-    "source_size": [
-     17,
-     15
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -7558,64 +4020,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     26,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 19
@@ -7684,64 +4088,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -7804,64 +4150,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 12
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     14,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 12
@@ -7930,64 +4218,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -8050,64 +4280,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 20
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 20
@@ -8176,64 +4348,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -8296,64 +4410,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 22
-   },
-   "shiny": {
-    "h": 15,
-    "source_size": [
-     22,
-     15
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 22
@@ -8422,64 +4478,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -8542,64 +4540,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 19
@@ -8668,64 +4608,6 @@
      }
     },
     "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 18
    }
   },
   "gen": 1,
@@ -8788,64 +4670,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -8914,64 +4738,6 @@
      }
     },
     "w": 12
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     13,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 12
    }
   },
   "gen": 1,
@@ -9034,64 +4800,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 18
@@ -9160,64 +4868,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     25
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -9280,64 +4930,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 14,
-    "source_size": [
-     17,
-     14
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -9406,64 +4998,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -9526,64 +5060,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 25
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     16
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 25
@@ -9652,64 +5128,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -9772,64 +5190,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -9898,64 +5258,6 @@
      }
     },
     "w": 14
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     17,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 14
    }
   },
   "gen": 1,
@@ -10018,64 +5320,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 14
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 14
@@ -10144,64 +5388,6 @@
      }
     },
     "w": 14
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     28
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 14
    }
   },
   "gen": 1,
@@ -10264,64 +5450,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     29
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -10390,64 +5518,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -10510,64 +5580,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 20
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 20
@@ -10636,64 +5648,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -10756,64 +5710,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -10882,64 +5778,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     16,
-     16
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -11002,64 +5840,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     17,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -11128,64 +5908,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -11248,64 +5970,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 19
@@ -11374,64 +6038,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     28,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -11494,64 +6100,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 13,
-    "source_size": [
-     16,
-     13
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -11620,64 +6168,6 @@
      }
     },
     "w": 13
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     16,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 13
    }
   },
   "gen": 1,
@@ -11740,64 +6230,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -11866,64 +6298,6 @@
      }
     },
     "w": 14
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     26,
-     29
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 14
    }
   },
   "gen": 1,
@@ -11986,64 +6360,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     19,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 18
@@ -12112,64 +6428,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -12232,64 +6490,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     26,
-     26
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -12358,64 +6558,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     30,
-     31
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -12478,64 +6620,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     25
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -12604,64 +6688,6 @@
      }
     },
     "w": 14
-   },
-   "shiny": {
-    "h": 15,
-    "source_size": [
-     14,
-     15
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 14
    }
   },
   "gen": 1,
@@ -12724,64 +6750,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 14
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     17,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 14
@@ -12850,64 +6818,6 @@
      }
     },
     "w": 14
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     17,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 14
    }
   },
   "gen": 1,
@@ -12970,64 +6880,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -13096,64 +6948,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 15,
-    "source_size": [
-     19,
-     15
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -13216,64 +7010,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 21
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 21
@@ -13342,64 +7078,6 @@
      }
     },
     "w": 22
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 22
    }
   },
   "gen": 1,
@@ -13462,64 +7140,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 18
@@ -13588,64 +7208,6 @@
      }
     },
     "w": 21
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 21
    }
   },
   "gen": 1,
@@ -13708,64 +7270,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 19
@@ -13834,64 +7338,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     17,
-     18
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -13954,64 +7400,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     23
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -14080,64 +7468,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     27
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -14200,64 +7530,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 18
@@ -14326,64 +7598,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     19,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -14446,64 +7660,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 20
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     28,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 20
@@ -14572,64 +7728,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     22
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -14692,64 +7790,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     18,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -14818,64 +7858,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -14938,64 +7920,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     25
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -15064,64 +7988,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -15184,64 +8050,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     26
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -15310,64 +8118,6 @@
      }
     },
     "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 18
    }
   },
   "gen": 1,
@@ -15430,64 +8180,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 14
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     15,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 14
@@ -15556,64 +8248,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     25,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -15676,64 +8310,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 18
@@ -15802,64 +8378,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     28
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -15922,64 +8440,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 20
-   },
-   "shiny": {
-    "h": 15,
-    "source_size": [
-     20,
-     15
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 20
@@ -16048,64 +8508,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     15,
-     16
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -16168,64 +8570,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -16294,64 +8638,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     20,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -16414,64 +8700,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 14
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     18,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 14
@@ -16540,64 +8768,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     28
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -16660,64 +8830,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     18,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -16786,64 +8898,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     24
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -16906,64 +8960,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     27,
-     27
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -17032,64 +9028,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     25
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -17152,64 +9090,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     19,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 16
@@ -17278,64 +9158,6 @@
      }
     },
     "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     28,
-     25
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 18
    }
   },
   "gen": 1,
@@ -17398,64 +9220,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     28,
-     25
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 18
@@ -17524,64 +9288,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     28,
-     26
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -17644,64 +9350,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     22,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 19
@@ -17770,64 +9418,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     16,
-     16
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -17890,64 +9480,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 20
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     24,
-     19
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 20
@@ -18016,64 +9548,6 @@
      }
     },
     "w": 16
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     20,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 16
    }
   },
   "gen": 1,
@@ -18136,64 +9610,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     18,
-     17
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 17
@@ -18262,64 +9678,6 @@
      }
     },
     "w": 17
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     21,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 17
    }
   },
   "gen": 1,
@@ -18382,64 +9740,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     28,
-     30
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 15
@@ -18508,64 +9808,6 @@
      }
     },
     "w": 15
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     19,
-     20
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 15
    }
   },
   "gen": 1,
@@ -18631,64 +9873,6 @@
      }
     },
     "w": 19
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     29,
-     25
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
-     }
-    },
-    "w": 19
    }
   },
   "gen": 1,
@@ -18751,64 +9935,6 @@
       ],
       "mirrored": false,
       "source": "default_walk_8fps.gif"
-     }
-    },
-    "w": 18
-   },
-   "shiny": {
-    "h": 16,
-    "source_size": [
-     23,
-     21
-    ],
-    "states": {
-     "idle_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_left_0.png",
-       "idle_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "idle_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "idle_right_0.png",
-       "idle_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_idle_8fps.gif"
-     },
-     "walk_left": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_left_0.png",
-       "walk_left_1.png"
-      ],
-      "mirrored": true,
-      "source": "shiny_walk_8fps.gif"
-     },
-     "walk_right": {
-      "durations_ms": [
-       300,
-       300
-      ],
-      "frames": [
-       "walk_right_0.png",
-       "walk_right_1.png"
-      ],
-      "mirrored": false,
-      "source": "shiny_walk_8fps.gif"
      }
     },
     "w": 18

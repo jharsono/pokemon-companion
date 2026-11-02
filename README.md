@@ -3,8 +3,7 @@
 An animated Pokémon walks and idles across the 72×16 LED panel of a
 [BUSY Bar](https://busy.app), in the spirit of
 [vscode-pokemon](https://github.com/jakobhoeg/vscode-pokemon). The app ships
-the first generation: all 151 Pokémon plus two female variants, in the
-default and shiny colourings.
+the first generation: all 151 Pokémon plus two female variants.
 
 ![Pikachu walking across the BUSY Bar panel](pokemon-companion/preview.gif)
 
@@ -21,7 +20,6 @@ python3 app.py                         # BUSY Bar over USB (10.0.4.20)
 python3 app.py --host 192.168.1.50     # a bar on Wi-Fi
 python3 app.py --host 127.0.0.1:8080   # the emulator
 python3 app.py --pokemon charizard     # pick one. --list prints them all
-python3 app.py --pokemon charizard --shiny
 python3 app.py --order number          # the chooser counts #001, #002, ...
 ```
 

@@ -79,13 +79,12 @@ def test_load_frames_keeps_gif_timing(media):
 
 def test_frames_fit_the_panel_and_are_never_upscaled(pikachu):
     out, entry = pikachu
-    for color in ("default", "shiny"):
-        for state in ALL_STATES:
-            for im in _frames(out, entry, "pikachu", color, state):
-                assert im.mode == "RGBA"
-                assert im.height <= PANEL_H
-                assert im.width <= PANEL_W
-                assert im.width <= 32 and im.height <= 32
+    for state in ALL_STATES:
+        for im in _frames(out, entry, "pikachu", "default", state):
+            assert im.mode == "RGBA"
+            assert im.height <= PANEL_H
+            assert im.width <= PANEL_W
+            assert im.width <= 32 and im.height <= 32
 
 
 def test_two_frame_gif_yields_two_pngs_with_durations(pikachu):
@@ -173,7 +172,7 @@ def test_index_entry_shape(pikachu):
     assert entry["gen"] == 1
     assert entry["name"] == "Pikachu"
     assert entry["number"] == 25
-    assert set(entry["colors"]) == {"default", "shiny"}
+    assert set(entry["colors"]) == {"default"}
     color = entry["colors"]["default"]
     assert set(color["states"]) == ALL_STATES
     assert color["source_size"] == [17, 19]     # idle and walk together
@@ -259,8 +258,8 @@ def test_contact_sheet_is_written(media, tmp_path):
 
 
 def test_contact_sheet_pages(media, tmp_path, monkeypatch):
-    monkeypatch.setattr(cs, "SHEET_ROWS_PER_PAGE", 3)
-    # two pokemon x two colours = four rows: a full page and one more
+    monkeypatch.setattr(cs, "SHEET_ROWS_PER_PAGE", 1)
+    # two pokemon = two rows: a full page and one more
     cs.convert(media, tmp_path, gens=[1], only=["bulbasaur", "eevee"], sheet=tmp_path / "sheet.png")
     assert (tmp_path / "sheet.png").is_file()
     assert (tmp_path / "sheet-p2.png").is_file()
@@ -272,6 +271,6 @@ def test_command_line(media, tmp_path):
                           "--source", str(media), "--out", str(tmp_path), "--gen", "1",
                           "--only", "pikachu", "--only", "eevee", "--sheet", str(tmp_path / "sheet.png")],
                          capture_output=True, text=True, check=True)
-    assert out.stdout.strip() == f"converted 2 pokemon, 32 frames -> {tmp_path}"
+    assert out.stdout.strip() == f"converted 2 pokemon, 16 frames -> {tmp_path}"
     assert out.stderr == ""
     assert (tmp_path / "sheet.png").is_file()

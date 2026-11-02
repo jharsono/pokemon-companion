@@ -1,6 +1,6 @@
 name: Pokémon Companion
 author: jharsono
-description: A gen 1 Pokémon walks and idles across the panel, its vscode-pokemon sprite shrunk to 16px. Pick one with --pokemon (and --shiny) or the dial and wheel. A double click sorts by Pokédex number.
+description: A gen 1 Pokémon walks and idles across the panel, its vscode-pokemon sprite shrunk to 16px. Pick one with --pokemon or the dial and wheel. A double click sorts by Pokédex number.
 tags:
   - animation
   - companion
